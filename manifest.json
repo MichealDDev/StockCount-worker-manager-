@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Stock count manager",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "S.C Manager",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Stock count manager",
+  "description": "Tracks and records Stock Counts"
+}
