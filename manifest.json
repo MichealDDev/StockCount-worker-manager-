@@ -3,11 +3,15 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "Stock count manager",
-  "orientation": "any",
+  "orientation": "portrait",
   "scope": "/",
   "short_name": "S.C Manager",
   "start_url": "/",
   "theme_color": "#ffffff",
   "id": "Stock count manager",
-  "description": "Tracks and records Stock Counts"
+  "description": "Tracks and records Stock Counts",
+  "categories": [
+    "utilities"
+  ],
+  "lang": "en"
 }
