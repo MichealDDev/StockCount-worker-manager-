@@ -6,7 +6,7 @@
   "orientation": "portrait",
   "scope": "./",
   "short_name": "S.C Manager",
-  "start_url": "./",
+  "start_url": "https://michealddev.github.io/StockCount-worker-manager-/",
   "theme_color": "#ffffff",
   "id": "Stock count manager",
   "description": "Tracks and records Stock Counts",
