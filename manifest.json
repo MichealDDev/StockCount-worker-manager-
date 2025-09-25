@@ -4,27 +4,28 @@
   "display": "standalone",
   "name": "Stock count manager",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "./",
   "short_name": "S.C Manager",
-  "start_url": "/",
+  "start_url": "./",
   "theme_color": "#ffffff",
   "id": "Stock count manager",
   "description": "Tracks and records Stock Counts",
   "categories": [
     "utilities"
   ],
-  "lang": "en"
-}
-"icons": [
-  {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
-  },
-  {
-      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+    },
+    {
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
-  }
+    }
+  ]
+}
